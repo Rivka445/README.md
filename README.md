@@ -1,16 +1,17 @@
-# Hi there, I'm Rivka Finkel 👋
+# 👩‍💻 Rivka Finkel
 
-Software Engineer | Full Stack Developer | AI & Systems Engineer
+🚀 Software Engineer | Full Stack Developer | AI Systems Engineer | LLM & RAG Architect
 
 ---
 
 ## 🧠 Professional Summary
-Software Engineer focused on Full Stack development combined with AI systems, LLM-based architectures, and automation pipelines.  
-Strong background in backend engineering, scalable APIs, and intelligent data-driven systems using modern AI tooling.
+
+Software Engineer specializing in Full Stack systems, AI-driven architectures, LLM applications, RAG pipelines, and scalable backend engineering.  
+Experienced in building distributed systems, intelligent automation layers, and production-grade AI services.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RivkaFinkel&show_icons=true&theme=radical)
 
@@ -18,97 +19,95 @@ Strong background in backend engineering, scalable APIs, and intelligent data-dr
 
 ---
 
-## 🛠️ Technical Stack
+## 🛠️ Tech Stack
 
-### Programming Languages
-C# · Python · Java · C++ · C · TypeScript · JavaScript
-
-### Frontend Development
-Angular · React · HTML5 · CSS3
-
-### Backend Development
-ASP.NET Core · .NET Core · FastAPI · Flask · Node.js · REST APIs
-
-### Databases
-SQL Server · MySQL · MongoDB
-
-### AI / ML / LLM Systems
-RAG Architectures · LLM Agents · Prompt Engineering · Computer Vision · Embeddings · Vector Databases · LangChain / LlamaIndex
-
-### Dev & Infrastructure
-Git · Docker · Redis · Kafka · AWS · Entity Framework Core · AutoMapper
-
-### Environments
-Windows · Linux · Visual Studio · VS Code · PyCharm · Jupyter
+**Languages:** C# · Python · Java · C++ · TypeScript · JavaScript  
+**Frontend:** Angular · React · HTML5 · CSS3  
+**Backend:** ASP.NET Core · FastAPI · Flask · Node.js · REST APIs  
+**Databases:** SQL Server · MongoDB · MySQL  
+**AI / LLM:** RAG Systems · LLM Agents · Embeddings · Vector Databases · LangChain · LlamaIndex · Computer Vision  
+**Infrastructure:** Docker · Kafka · Redis · AWS · Git
 
 ---
 
-## 🚀 Featured Projects
-
-### 🏠 AI Full-Stack Platform (E-Commerce + Intelligence Layer)
-**Stack:** ASP.NET Core · Angular · EF Core · LLM APIs · Computer Vision
-
-- Full-stack scalable architecture with AI integration
-- Intelligent assistant layer for user recommendations
-- Image-based classification for UI/UX personalization
-- Clean Architecture + modular backend design
+# 🚀 Projects & Practical Experience
 
 ---
 
-### 🧠 Hybrid RAG Knowledge Engine
-**Stack:** Python · FastAPI · LlamaIndex · Cohere · Vector DB
+## 🏠 AI-Enhanced Full Stack Dress Rental Platform
 
-- Hybrid retrieval (semantic + structured data)
-- Intelligent query routing engine
-- Embedding-based document indexing
-- Deterministic extraction pipelines using Pydantic
+**Stack:** Angular · ASP.NET Core · EF Core · JWT · Docker · Kafka · Redis · Rate Limiting · Clean Architecture
 
----
+### Overview
+Full Stack AI-powered dress rental platform with an intelligent recommendation layer.
 
-### 🤖 MCP File Automation Server
-**Stack:** Python · AsyncIO · MCP · SHA-256
-
-- Automated file orchestration system
-- Duplicate detection via hashing
-- ZIP processing automation
-- Integration with AI agent workflows
+### Key Features
+- 🤖 AI assistant for real-time recommendations  
+- ⚙️ Clean Architecture implementation  
+- 🔐 JWT-based authentication system  
+- 🚀 Scalable infrastructure using Redis + Kafka  
+- 🧱 Rate limiting for system protection and stability  
+- 🗄️ Entity Framework Core (database-first design)  
 
 ---
 
-### 💻 Natural Language CLI Generator
-**Stack:** React · Flask · OpenAI
+## 🧠 Hybrid RAG Knowledge System
 
-- Converts natural language into safe CLI commands
-- Command validation and security filtering
-- Intent classification engine
-- Interactive frontend interface
+**Stack:** Python · FastAPI · LlamaIndex · Cohere Embeddings · Vector DB · Pydantic
+
+### Overview
+Hybrid retrieval system combining semantic search and structured extraction.
+
+### Key Features
+- 🔍 Hybrid retrieval (semantic + structured)  
+- 🧠 LlamaIndex orchestration layer  
+- 📚 Document indexing using Cohere embeddings  
+- 🧾 Structured data extraction via Pydantic models  
+- 🎯 Intelligent query routing system  
 
 ---
 
-### 📄 Document Processing Pipeline (OCR System)
-**Stack:** Python · Tesseract · PyMuPDF · ReportLab
+## 🤖 MCP Downloads Manager
 
-- OCR pipeline for scanned documents
-- Structured transformation of PDFs
-- Automated report generation system
+**Stack:** Python · AsyncIO · MCP Protocol · SHA-256 · pytest · Claude Integration
+
+### Overview
+Asynchronous file management server with AI-driven automation workflows.
+
+### Key Features
+- 📂 Large-scale automated file processing  
+- 🔐 SHA-256 based deduplication system  
+- 🧠 MCP integration with Claude  
+- ⚡ High-performance AsyncIO pipeline  
+- 🧪 Automated testing using pytest  
+
+---
+
+## 🧠 LangGraph NotebookLM System
+
+**Stack:** LangGraph · Streamlit · Tavily API · ReAct Agents · MemorySaver
+
+### Overview
+Agent-based intelligent system for real-time search, reasoning, and verification.
+
+### Key Features
+- 🔄 ReAct-based agent reasoning  
+- 🌐 Real-time web search via Tavily API  
+- 🧠 Persistent state management (MemorySaver)  
+- 🧾 Source validation before response generation  
+- 🖥️ Interactive Streamlit UI  
 
 ---
 
 ## 🎓 Education
 
-**Software Engineering Diploma**  
-Seminar Merkaz Beit Yaakov, Jerusalem  
-GPA: 97
-
-**AI Engineering Training**
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- LLM Systems & Agents
-- Prompt Engineering (Ultra-Code Program)
-
-**Certification**
-- 5-unit Mathematics & English (Bagrut equivalent)
+- 🎓 Software Engineering Diploma – GPA 95+  
+- 🎓 AI Engineering Track:
+  - Machine Learning
+  - Deep Learning
+  - Computer Vision
+  - LLM Systems & Agents  
+- 🎓 Ultra-Code Program (Kama-Tech)
 
 ---
 
@@ -116,6 +115,6 @@ GPA: 97
 
 📧 Email: finkelriki@gmail.com  
 📱 Phone: 054-4166445  
-💻 GitHub: https://github.com/Rivka
+💻 GitHub: https://github.com/Rivka445
 
 ---
