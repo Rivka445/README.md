@@ -1,155 +1,159 @@
-# 👩‍💻 Rivka Finkel
+<h1 align="center">👩💻 Rivka Finkel</h1>
 
-<!-- Technology badges (replace the username/placeholders below if you want repo-linked badges) -->
-![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)
-![C%23](https://img.shields.io/badge/C%23-10-239120?logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-17-ED8B00?logo=java&logoColor=white)
-![C%2B%2B](https://img.shields.io/badge/C%2B%2B-17-00599C?logo=c%2B%2B&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-4.9-3178C6?logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?logo=javascript&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-14-DD0031?logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=black)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-Core-512BD4?logo=dotnet&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-0.95-009688?logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-Container-2496ED?logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-Cloud-232F3E?logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-Version_Control-F05032?logo=git&logoColor=white)
+<p align="center">
+  <b>Full-Stack Software Engineer &nbsp;|&nbsp; AI & LLM Systems &nbsp;|&nbsp; Production-Grade End-to-End Development</b>
+</p>
 
-🚀 Software Engineer | Full Stack Developer | AI Systems Engineer | LLM & RAG Architect
+<p align="center">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/-Python-24292e?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-C%23-24292e?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Java-24292e?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-C%2B%2B-24292e?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-TypeScript-24292e?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-JavaScript-24292e?style=flat-square&logo=github&logoColor=white"/>
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/-Angular-24292e?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-React-24292e?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-HTML5-24292e?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-CSS3-24292e?style=flat-square&logo=github&logoColor=white"/>
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/-ASP.NET_Core-24292e?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-FastAPI-24292e?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Flask-24292e?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Node.js-24292e?style=flat-square&logo=github&logoColor=white"/>
+  <!-- Databases -->
+  <img src="https://img.shields.io/badge/-SQL_Server-24292e?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-MongoDB-24292e?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-MySQL-24292e?style=flat-square&logo=github&logoColor=white"/>
+  <!-- AI / LLM -->
+  <img src="https://img.shields.io/badge/-LangChain-24292e?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-LlamaIndex-24292e?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-LangGraph-24292e?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-RAG_Systems-24292e?style=flat-square&logo=github&logoColor=white"/>
+  <!-- Infrastructure -->
+  <img src="https://img.shields.io/badge/-Docker-24292e?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Kafka-24292e?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Redis-24292e?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-AWS-24292e?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Git-24292e?style=flat-square&logo=github&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Rivka445?label=Followers&style=social"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Rivka445&query=$.public_repos&label=Public%20Repos&style=flat-square&color=blueviolet&logo=github&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Rivka445&query=$.public_gists&label=Gists&style=flat-square&color=blueviolet&logo=github&logoColor=white"/>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=Rivka445&style=flat-square&color=blueviolet"/>
+</p>
 
 ---
 
-## 🧠 Professional Summary
+## 🧠 About Me
 
-Software Engineer specializing in Full Stack systems, AI-driven architectures, LLM applications, RAG pipelines, and scalable backend engineering.  
-Experienced in building distributed systems, intelligent automation layers, and production-grade AI services.
+Full-Stack Software Engineer specializing in building complete, production-ready systems — from pixel-perfect frontends to robust backends, databases, and cloud infrastructure.
 
----
+I design and ship end-to-end solutions across the full stack, and integrate AI & LLM components where they create real value: intelligent agents, RAG pipelines, computer vision, and more.
 
-## 📊 GitHub Summary & Live Stats
-
-Below are live GitHub cards and small badges that surface your aggregated stars, commits, repositories and language breakdown. These are generated by community services (GitHub Readme Stats & Shields). Replace the username (example: `RivkaFinkel`) with your GitHub username if needed.
-
-<!-- Main GitHub stats card: shows total stars, forks, PRs, issues and other summary info. include_all_commits shows commits across repos -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RivkaFinkel&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
-
-<!-- Top languages card (compact) -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RivkaFinkel&layout=compact&theme=radical)
-
-<!-- Small summary badges (followers, public repos, profile views) -->
-![Followers](https://img.shields.io/github/followers/RivkaFinkel?label=Followers&style=social)
-![Public Repos](https://img.shields.io/badge/Public%20Repos---blue?logo=github)
-![Profile Views](https://komarev.com/ghpvc/?username=RivkaFinkel&style=flat-square)
-
-Note: the "Public Repos" badge above is a placeholder — Shields doesn't expose a single badge that reliably returns a user's repo count across providers. The GitHub Stats card above, however, lists repository and star totals on the generated image.
-
-If you want per-repository star/fork badges, add them like this (replace USER and REPO):
-
-![Repo stars example](https://img.shields.io/github/stars/USER/REPO?style=social)
-![Repo forks example](https://img.shields.io/github/forks/USER/REPO?style=social)
-
-If you want to show total commits only, you can keep the `include_all_commits=true` query parameter on the GitHub Stats card above — that aggregates commit counts. Some services require OAuth or tokens for private counts.
+Strong foundation in software architecture, distributed systems, and clean code principles.
 
 ---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rivka445&show_icons=true&theme=radical&count_private=true&include_all_commits=true&show=reviews,discussions_started,prs_merged,prs_merged_percentage" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rivka445&layout=compact&theme=radical&count_private=true" width="49%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rivka445&theme=radical" width="60%"/>
+</p>
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:** C# · Python · Java · C++ · TypeScript · JavaScript  
-**Frontend:** Angular · React · HTML5 · CSS3  
-**Backend:** ASP.NET Core · FastAPI · Flask · Node.js · REST APIs  
-**Databases:** SQL Server · MongoDB · MySQL  
-**AI / LLM:** RAG Systems · LLM Agents · Embeddings · Vector Databases · LangChain · LlamaIndex · Computer Vision  
-**Infrastructure:** Docker · Kafka · Redis · AWS · Git
+| Layer | Technologies |
+|---|---|
+| **Languages** | C# · Python · Java · C++ · TypeScript · JavaScript |
+| **Frontend** | Angular · React · HTML5 · CSS3 |
+| **Backend** | ASP.NET Core · FastAPI · Flask · Node.js · REST APIs |
+| **Databases** | SQL Server · MongoDB · MySQL |
+| **AI / LLM** | RAG Systems · LLM Agents · Embeddings · Vector DBs · LangChain · LlamaIndex · LangGraph · Computer Vision |
+| **Infrastructure** | Docker · Kafka · Redis · AWS · Git |
 
 ---
 
-# 🚀 Projects & Practical Experience
+## 🚀 Featured Projects
 
 ---
 
-## 🏠 AI-Enhanced Full Stack Dress Rental Platform
+### 🏠 AI-Enhanced Full Stack Dress Rental Platform
+`Angular` `ASP.NET Core` `EF Core` `JWT` `Docker` `Kafka` `Redis` `Clean Architecture`
 
-**Stack:** Angular · ASP.NET Core · EF Core · JWT · Docker · Kafka · Redis · Rate Limiting · Clean Architecture
+Full-stack AI-powered dress rental platform with an intelligent recommendation layer and production-grade infrastructure.
 
-### Overview
-Full Stack AI-powered dress rental platform with an intelligent recommendation layer.
-
-### Key Features
-- 🤖 AI assistant for real-time recommendations  
-- ⚙️ Clean Architecture implementation  
-- 🔐 JWT-based authentication system  
-- 🚀 Scalable infrastructure using Redis + Kafka  
-- 🧱 Rate limiting for system protection and stability  
-- 🗄️ Entity Framework Core (database-first design)  
+- 🤖 AI assistant for real-time personalized recommendations
+- ⚙️ Clean Architecture with clear separation of concerns
+- 🔐 JWT-based authentication & authorization
+- 🚀 Scalable async messaging with Redis + Kafka
+- 🧱 Rate limiting for stability and abuse prevention
+- 🗄️ Entity Framework Core — database-first design
 
 ---
 
-## 🧠 Hybrid RAG Knowledge System
+### 🧠 Hybrid RAG Knowledge System
+`Python` `FastAPI` `LlamaIndex` `Cohere Embeddings` `Vector DB` `Pydantic`
 
-**Stack:** Python · FastAPI · LlamaIndex · Cohere Embeddings · Vector DB · Pydantic
+Hybrid retrieval system combining semantic search with structured data extraction for high-accuracy knowledge querying.
 
-### Overview
-Hybrid retrieval system combining semantic search and structured extraction.
-
-### Key Features
-- 🔍 Hybrid retrieval (semantic + structured)  
-- 🧠 LlamaIndex orchestration layer  
-- 📚 Document indexing using Cohere embeddings  
-- 🧾 Structured data extraction via Pydantic models  
-- 🎯 Intelligent query routing system  
+- 🔍 Hybrid retrieval — semantic + structured search
+- 🧠 LlamaIndex orchestration layer
+- 📚 Document indexing with Cohere embeddings
+- 🧾 Structured extraction via Pydantic models
+- 🎯 Intelligent query routing
 
 ---
 
-## 🤖 MCP Downloads Manager
+### 🤖 MCP Downloads Manager
+`Python` `AsyncIO` `MCP Protocol` `SHA-256` `pytest` `Claude`
 
-**Stack:** Python · AsyncIO · MCP Protocol · SHA-256 · pytest · Claude Integration
+Asynchronous file management server with AI-driven automation workflows and integrity verification.
 
-### Overview
-Asynchronous file management server with AI-driven automation workflows.
-
-### Key Features
-- 📂 Large-scale automated file processing  
-- 🔐 SHA-256 based deduplication system  
-- 🧠 MCP integration with Claude  
-- ⚡ High-performance AsyncIO pipeline  
-- 🧪 Automated testing using pytest  
+- 📂 Large-scale automated file processing
+- 🔐 SHA-256 deduplication for data integrity
+- 🧠 MCP integration with Claude AI
+- ⚡ High-performance AsyncIO pipeline
+- 🧪 Full test coverage with pytest
 
 ---
 
-## 🧠 LangGraph NotebookLM System
+### 🧠 LangGraph NotebookLM System
+`LangGraph` `Streamlit` `Tavily API` `ReAct Agents` `MemorySaver`
 
-**Stack:** LangGraph · Streamlit · Tavily API · ReAct Agents · MemorySaver
+Agent-based intelligent system for real-time search, multi-step reasoning, and source-verified responses.
 
-### Overview
-Agent-based intelligent system for real-time search, reasoning, and verification.
-
-### Key Features
-- 🔄 ReAct-based agent reasoning  
-- 🌐 Real-time web search via Tavily API  
-- 🧠 Persistent state management (MemorySaver)  
-- 🧾 Source validation before response generation  
-- 🖥️ Interactive Streamlit UI  
+- 🔄 ReAct-based agent reasoning loop
+- 🌐 Real-time web search via Tavily API
+- 🧠 Persistent memory across sessions (MemorySaver)
+- 🧾 Source validation before every response
+- 🖥️ Interactive Streamlit UI
 
 ---
 
 ## 🎓 Education
 
-- 🎓 Software Engineering Diploma – GPA 95+  
-- 🎓 AI Engineering Track:
-  - Machine Learning
-  - Deep Learning
-  - Computer Vision
-  - LLM Systems & Agents  
-- 🎓 Ultra-Code Program (Kama-Tech)
+- 🎓 Software Engineering Diploma — GPA **97**
+- 🤖 AI Engineering Track: Machine Learning · Deep Learning · Computer Vision · LLM Systems & Agents
+- 💡 Ultra-Code Program — Kama-Tech
 
 ---
 
 ## 📫 Contact
 
-📧 Email: finkelriki@gmail.com  
-📱 Phone: 054-4166445  
-💻 GitHub: https://github.com/Rivka445
-
----
+[![Email](https://img.shields.io/badge/Email-finkelriki@gmail.com-24292e?style=flat-square&logo=github&logoColor=white)](mailto:finkelriki@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Rivka445-24292e?style=flat-square&logo=github&logoColor=white)](https://github.com/Rivka445)
+[![Phone](https://img.shields.io/badge/Phone-054--4166445-24292e?style=flat-square&logo=github&logoColor=white)](tel:+972544166445)
